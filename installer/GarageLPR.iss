@@ -49,7 +49,7 @@ Name: "{commonappdata}\GarageLPR\runtime\soak"; Flags: uninsneveruninstall
 Name: "{commonappdata}\GarageLPR\models"; Flags: uninsneveruninstall
 
 [Icons]
-Name: "{group}\Garage LPR"; Filename: "http://localhost:8080"; Flags: shellexec
+Name: "{group}\Garage LPR"; Filename: "http://localhost:8080"
 Name: "{group}\Health Check"; Filename: "powershell.exe"; Parameters: "-NoProfile -ExecutionPolicy Bypass -File ""{app}\HealthCheck.ps1"""; WorkingDir: "{app}"
 Name: "{group}\72 Hour Stability Test"; Filename: "powershell.exe"; Parameters: "-NoProfile -ExecutionPolicy Bypass -File ""{app}\SoakTest.ps1"""; WorkingDir: "{app}"
 Name: "{group}\Uninstall Garage LPR"; Filename: "{uninstallexe}"
