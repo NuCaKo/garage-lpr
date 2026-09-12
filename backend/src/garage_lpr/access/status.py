@@ -1,0 +1,9 @@
+from enum import StrEnum
+
+
+class AuthorizationStatus(StrEnum):
+    AUTHORIZED = "AUTHORIZED"
+    UNAUTHORIZED = "UNAUTHORIZED"
+    EXPIRED = "EXPIRED"
+    OUTSIDE_ALLOWED_TIME = "OUTSIDE_ALLOWED_TIME"
+    DISABLED = "DISABLED"

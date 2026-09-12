@@ -1,0 +1,1102 @@
+{
+  "backend/pyproject.toml": {
+    "mtime": 1789153862.540193,
+    "ast_hash": "c957f128774b153409d096bdbe5eb9ca",
+    "semantic_hash": "c957f128774b153409d096bdbe5eb9ca"
+  },
+  "backend/src/garage_lpr/__init__.py": {
+    "mtime": 1789041921.0860074,
+    "ast_hash": "d37e98ac5de164ab763b3521b8b44c64",
+    "semantic_hash": "d37e98ac5de164ab763b3521b8b44c64"
+  },
+  "backend/src/garage_lpr/__main__.py": {
+    "mtime": 1789041921.0864992,
+    "ast_hash": "a9b9f33f015a7fba6244b52b172b1f39",
+    "semantic_hash": "a9b9f33f015a7fba6244b52b172b1f39"
+  },
+  "backend/src/garage_lpr/access/__init__.py": {
+    "mtime": 1789111849.5906453,
+    "ast_hash": "7678c1959f56eabff1528f40e1848104",
+    "semantic_hash": "7678c1959f56eabff1528f40e1848104"
+  },
+  "backend/src/garage_lpr/access/status.py": {
+    "mtime": 1789042161.4540126,
+    "ast_hash": "147bd5eb14e719b487469864ec229738",
+    "semantic_hash": "147bd5eb14e719b487469864ec229738"
+  },
+  "backend/src/garage_lpr/api/__init__.py": {
+    "mtime": 1789041921.086003,
+    "ast_hash": "51f56d1e6b73d8378eb989ea98f84b50",
+    "semantic_hash": "51f56d1e6b73d8378eb989ea98f84b50"
+  },
+  "backend/src/garage_lpr/api/dependencies.py": {
+    "mtime": 1789137901.6217482,
+    "ast_hash": "65906bfc31ac9036530fe78f75f882cc",
+    "semantic_hash": "65906bfc31ac9036530fe78f75f882cc"
+  },
+  "backend/src/garage_lpr/api/router.py": {
+    "mtime": 1789137935.8306997,
+    "ast_hash": "0a73d1119b0a5101c85622352caf97e6",
+    "semantic_hash": "0a73d1119b0a5101c85622352caf97e6"
+  },
+  "backend/src/garage_lpr/api/routes/__init__.py": {
+    "mtime": 1789041921.0870721,
+    "ast_hash": "858411efff95dabf28516acbd1faacd0",
+    "semantic_hash": "858411efff95dabf28516acbd1faacd0"
+  },
+  "backend/src/garage_lpr/api/routes/health.py": {
+    "mtime": 1789041921.086439,
+    "ast_hash": "16a9a74420ad47e8371023888451d040",
+    "semantic_hash": "16a9a74420ad47e8371023888451d040"
+  },
+  "backend/src/garage_lpr/api/routes/settings.py": {
+    "mtime": 1789130448.898147,
+    "ast_hash": "46734fddfba365553a4195603474d87b",
+    "semantic_hash": "46734fddfba365553a4195603474d87b"
+  },
+  "backend/src/garage_lpr/camera/__init__.py": {
+    "mtime": 1789042161.4535346,
+    "ast_hash": "7c5e4431d3919ff8ba4b0f4f780e55ae",
+    "semantic_hash": "7c5e4431d3919ff8ba4b0f4f780e55ae"
+  },
+  "backend/src/garage_lpr/camera/contracts.py": {
+    "mtime": 1789046440.152546,
+    "ast_hash": "a496e62dc849fe4162103322b196cdfd",
+    "semantic_hash": "a496e62dc849fe4162103322b196cdfd"
+  },
+  "backend/src/garage_lpr/config/__init__.py": {
+    "mtime": 1789041921.0860028,
+    "ast_hash": "7568cdb816b0f623d76a8eba44f88ed5",
+    "semantic_hash": "7568cdb816b0f623d76a8eba44f88ed5"
+  },
+  "backend/src/garage_lpr/config/service.py": {
+    "mtime": 1789041921.086652,
+    "ast_hash": "2c7ccd918e7b8e281edc610215e25bd3",
+    "semantic_hash": "2c7ccd918e7b8e281edc610215e25bd3"
+  },
+  "backend/src/garage_lpr/config/settings.py": {
+    "mtime": 1789155914.6280296,
+    "ast_hash": "325e2900348a0afe938255f1260aec40",
+    "semantic_hash": "325e2900348a0afe938255f1260aec40"
+  },
+  "backend/src/garage_lpr/database/__init__.py": {
+    "mtime": 1789041921.0864975,
+    "ast_hash": "f5b0f6443080d6739f948295ef94f801",
+    "semantic_hash": "f5b0f6443080d6739f948295ef94f801"
+  },
+  "backend/src/garage_lpr/database/base.py": {
+    "mtime": 1789041921.086366,
+    "ast_hash": "03d3ae6bbbb2ca648ab84e7a2e85a2a5",
+    "semantic_hash": "03d3ae6bbbb2ca648ab84e7a2e85a2a5"
+  },
+  "backend/src/garage_lpr/database/lifecycle.py": {
+    "mtime": 1789155904.0302026,
+    "ast_hash": "88f1850732808116f9a384bb709b25ef",
+    "semantic_hash": "88f1850732808116f9a384bb709b25ef"
+  },
+  "backend/src/garage_lpr/database/migrations/env.py": {
+    "mtime": 1789045217.39487,
+    "ast_hash": "6ba81f2ea674433bcf474997a7e62d2f",
+    "semantic_hash": "6ba81f2ea674433bcf474997a7e62d2f"
+  },
+  "backend/src/garage_lpr/database/migrations/versions/7c23bbc53b1d_initial_foundation_schema.py": {
+    "mtime": 1789041921.0878031,
+    "ast_hash": "cf60bf6b6ede267d74382a6d170abaf4",
+    "semantic_hash": "cf60bf6b6ede267d74382a6d170abaf4"
+  },
+  "backend/src/garage_lpr/database/models.py": {
+    "mtime": 1789135374.3190708,
+    "ast_hash": "93fc2439321bcd9d9dc39396b990092b",
+    "semantic_hash": "93fc2439321bcd9d9dc39396b990092b"
+  },
+  "backend/src/garage_lpr/database/repositories/__init__.py": {
+    "mtime": 1789041921.0882359,
+    "ast_hash": "618fbba65f1914691db60f42a2612970",
+    "semantic_hash": "618fbba65f1914691db60f42a2612970"
+  },
+  "backend/src/garage_lpr/database/repositories/system_settings.py": {
+    "mtime": 1789041921.0878894,
+    "ast_hash": "3627820f3af4f1962cf829f9203f2fbd",
+    "semantic_hash": "3627820f3af4f1962cf829f9203f2fbd"
+  },
+  "backend/src/garage_lpr/database/session.py": {
+    "mtime": 1789041921.0877938,
+    "ast_hash": "1a41e7cd08037bd36393e7767840c59e",
+    "semantic_hash": "1a41e7cd08037bd36393e7767840c59e"
+  },
+  "backend/src/garage_lpr/detection/__init__.py": {
+    "mtime": 1789042161.4535058,
+    "ast_hash": "a5e19602ca03020d1989bf4c91936cbe",
+    "semantic_hash": "a5e19602ca03020d1989bf4c91936cbe"
+  },
+  "backend/src/garage_lpr/detection/contracts.py": {
+    "mtime": 1789057945.3120563,
+    "ast_hash": "e5ea69512dabccc2e6568e2faf346054",
+    "semantic_hash": "e5ea69512dabccc2e6568e2faf346054"
+  },
+  "backend/src/garage_lpr/events/__init__.py": {
+    "mtime": 1789042161.4542894,
+    "ast_hash": "a36f51337f331e112efb4d3e8d83de6e",
+    "semantic_hash": "a36f51337f331e112efb4d3e8d83de6e"
+  },
+  "backend/src/garage_lpr/events/types.py": {
+    "mtime": 1789135489.9298174,
+    "ast_hash": "c76fd272c39aee3534320a31111b2dd7",
+    "semantic_hash": "c76fd272c39aee3534320a31111b2dd7"
+  },
+  "backend/src/garage_lpr/gate/__init__.py": {
+    "mtime": 1789111849.5476809,
+    "ast_hash": "dec33f84e6baba3262e1743899164bc0",
+    "semantic_hash": "dec33f84e6baba3262e1743899164bc0"
+  },
+  "backend/src/garage_lpr/gate/contracts.py": {
+    "mtime": 1789042161.454543,
+    "ast_hash": "6a82180583e5d4207176f968f6564e72",
+    "semantic_hash": "6a82180583e5d4207176f968f6564e72"
+  },
+  "backend/src/garage_lpr/health/__init__.py": {
+    "mtime": 1789041921.087164,
+    "ast_hash": "aa639c56f8b515b65375e87a1d6ab8e8",
+    "semantic_hash": "aa639c56f8b515b65375e87a1d6ab8e8"
+  },
+  "backend/src/garage_lpr/health/service.py": {
+    "mtime": 1789130618.4498012,
+    "ast_hash": "4f1dba3d5dc46a7577beef8a3275c063",
+    "semantic_hash": "4f1dba3d5dc46a7577beef8a3275c063"
+  },
+  "backend/src/garage_lpr/logging/__init__.py": {
+    "mtime": 1789041921.0870836,
+    "ast_hash": "1de1cb8a729e593f3cb72fb3f75b554c",
+    "semantic_hash": "1de1cb8a729e593f3cb72fb3f75b554c"
+  },
+  "backend/src/garage_lpr/logging/setup.py": {
+    "mtime": 1789041921.0879083,
+    "ast_hash": "bbc01c7a730fd240f01424b66852b6a9",
+    "semantic_hash": "bbc01c7a730fd240f01424b66852b6a9"
+  },
+  "backend/src/garage_lpr/main.py": {
+    "mtime": 1789138577.9177709,
+    "ast_hash": "c69db1e88e0d28147a04ae1952180cc8",
+    "semantic_hash": "c69db1e88e0d28147a04ae1952180cc8"
+  },
+  "backend/src/garage_lpr/ocr/__init__.py": {
+    "mtime": 1789042161.453496,
+    "ast_hash": "7d161901c233cc8836d8143e519c231f",
+    "semantic_hash": "7d161901c233cc8836d8143e519c231f"
+  },
+  "backend/src/garage_lpr/ocr/contracts.py": {
+    "mtime": 1789042161.4537241,
+    "ast_hash": "f6daee2421b30d7e241a0634421eb89f",
+    "semantic_hash": "f6daee2421b30d7e241a0634421eb89f"
+  },
+  "backend/src/garage_lpr/recognition/__init__.py": {
+    "mtime": 1789087162.3030474,
+    "ast_hash": "d652c580d033c8f9b4e7f450d6daa7c0",
+    "semantic_hash": "d652c580d033c8f9b4e7f450d6daa7c0"
+  },
+  "backend/src/garage_lpr/storage/__init__.py": {
+    "mtime": 1789042161.453537,
+    "ast_hash": "3566991be1467bab8900d4cf51d0ac7c",
+    "semantic_hash": "3566991be1467bab8900d4cf51d0ac7c"
+  },
+  "backend/src/garage_lpr/storage/contracts.py": {
+    "mtime": 1789116265.614397,
+    "ast_hash": "a1c0d21fbdd3202351fb4eee09a95262",
+    "semantic_hash": "a1c0d21fbdd3202351fb4eee09a95262"
+  },
+  "backend/tests/conftest.py": {
+    "mtime": 1789137996.9782014,
+    "ast_hash": "6c0f2897e5b23be4c529fe6d321d4be9",
+    "semantic_hash": "6c0f2897e5b23be4c529fe6d321d4be9"
+  },
+  "backend/tests/test_configuration.py": {
+    "mtime": 1789059227.3327663,
+    "ast_hash": "20a3c9d5d8eb243dc05c0d56470a0586",
+    "semantic_hash": "20a3c9d5d8eb243dc05c0d56470a0586"
+  },
+  "backend/tests/test_database_schema.py": {
+    "mtime": 1789137997.0202851,
+    "ast_hash": "fa04659bf177124c5e59c140f65987e9",
+    "semantic_hash": "fa04659bf177124c5e59c140f65987e9"
+  },
+  "backend/tests/test_health_api.py": {
+    "mtime": 1789041921.0880888,
+    "ast_hash": "1cc799afd97b96a0ac4b612d55c42f16",
+    "semantic_hash": "1cc799afd97b96a0ac4b612d55c42f16"
+  },
+  "backend/tests/test_settings_api.py": {
+    "mtime": 1789130221.2287555,
+    "ast_hash": "8759476ca47c45aa1a3e83c1ce13f0b3",
+    "semantic_hash": "8759476ca47c45aa1a3e83c1ce13f0b3"
+  },
+  "frontend/eslint.config.js": {
+    "mtime": 1789207089.386927,
+    "ast_hash": "94a1c0119c61bb52bed7bd4948fd549e",
+    "semantic_hash": "94a1c0119c61bb52bed7bd4948fd549e"
+  },
+  "frontend/package.json": {
+    "mtime": 1789044086.5883558,
+    "ast_hash": "4f10391da0839244cd11118f00ca36c2",
+    "semantic_hash": "4f10391da0839244cd11118f00ca36c2"
+  },
+  "frontend/src/App.tsx": {
+    "mtime": 1789138175.4787123,
+    "ast_hash": "21ff5f2798e74e7b2c5d36370e36aba6",
+    "semantic_hash": "21ff5f2798e74e7b2c5d36370e36aba6"
+  },
+  "frontend/src/api.ts": {
+    "mtime": 1789138202.1263416,
+    "ast_hash": "93ea05a562ec443ad35808b11b0dcfa4",
+    "semantic_hash": "93ea05a562ec443ad35808b11b0dcfa4"
+  },
+  "frontend/src/components/Icons.tsx": {
+    "mtime": 1789207089.3873034,
+    "ast_hash": "201417c327ecb8c4fd8649d30592b54d",
+    "semantic_hash": "201417c327ecb8c4fd8649d30592b54d"
+  },
+  "frontend/src/components/StatusBadge.tsx": {
+    "mtime": 1789207089.3874474,
+    "ast_hash": "38853ebac6a28b9bd6c4893e9a018b75",
+    "semantic_hash": "38853ebac6a28b9bd6c4893e9a018b75"
+  },
+  "frontend/src/main.tsx": {
+    "mtime": 1789207089.3876143,
+    "ast_hash": "f968758381813ab7b447613844e768c8",
+    "semantic_hash": "f968758381813ab7b447613844e768c8"
+  },
+  "frontend/src/pages/Dashboard.tsx": {
+    "mtime": 1789116659.4436653,
+    "ast_hash": "78b5cd8da91af6e2b02c606ee690deac",
+    "semantic_hash": "78b5cd8da91af6e2b02c606ee690deac"
+  },
+  "frontend/src/pages/Placeholder.tsx": {
+    "mtime": 1789207089.3879678,
+    "ast_hash": "8e8918557c260f25169943dddf447fd5",
+    "semantic_hash": "8e8918557c260f25169943dddf447fd5"
+  },
+  "frontend/src/pages/Settings.tsx": {
+    "mtime": 1789130449.278345,
+    "ast_hash": "3a6688e3abe376622a72705c5560960e",
+    "semantic_hash": "3a6688e3abe376622a72705c5560960e"
+  },
+  "frontend/src/types.ts": {
+    "mtime": 1789138202.0834944,
+    "ast_hash": "ec3677098caac16ad9f2ef3d26c38a8b",
+    "semantic_hash": "ec3677098caac16ad9f2ef3d26c38a8b"
+  },
+  "frontend/tsconfig.app.json": {
+    "mtime": 1789207089.3881454,
+    "ast_hash": "a0f800367503adc99f2be7bcadabc70e",
+    "semantic_hash": "a0f800367503adc99f2be7bcadabc70e"
+  },
+  "frontend/tsconfig.json": {
+    "mtime": 1789207089.388317,
+    "ast_hash": "a3d39fa780ebff65444de257f291ce6c",
+    "semantic_hash": "a3d39fa780ebff65444de257f291ce6c"
+  },
+  "frontend/tsconfig.node.json": {
+    "mtime": 1789207089.3884857,
+    "ast_hash": "e706dbb850c46b32d330c203fab47836",
+    "semantic_hash": "e706dbb850c46b32d330c203fab47836"
+  },
+  "frontend/vite.config.ts": {
+    "mtime": 1789116553.6788359,
+    "ast_hash": "d89258a3451461080a4a5522183e1d23",
+    "semantic_hash": "d89258a3451461080a4a5522183e1d23"
+  },
+  "scripts/dev.ps1": {
+    "mtime": 1789207089.3902385,
+    "ast_hash": "c3c1489e0d6824d0174b642c568cc7d4",
+    "semantic_hash": "c3c1489e0d6824d0174b642c568cc7d4"
+  },
+  "scripts/dev.sh": {
+    "mtime": 1789207089.3904142,
+    "ast_hash": "8e8f153090ed424722b6cb2af90e1472",
+    "semantic_hash": "8e8f153090ed424722b6cb2af90e1472"
+  },
+  "scripts/graphify-watch.sh": {
+    "mtime": 1789207089.3905728,
+    "ast_hash": "d79acd1d7781281505f3f5140ed54675",
+    "semantic_hash": "d79acd1d7781281505f3f5140ed54675"
+  },
+  "AGENTS.md": {
+    "mtime": 1789207089.3863854,
+    "ast_hash": "425c464965e889d17e667b073b001276",
+    "semantic_hash": "425c464965e889d17e667b073b001276"
+  },
+  "README.md": {
+    "mtime": 1789156263.612931,
+    "ast_hash": "7063743e7fdb85df828621059ebef2dd",
+    "semantic_hash": "7063743e7fdb85df828621059ebef2dd"
+  },
+  "design-system/garage-lpr/MASTER.md": {
+    "mtime": 1789039527.603302,
+    "ast_hash": "85e0173dab3c6020ba4b2aa1c4408d24",
+    "semantic_hash": "85e0173dab3c6020ba4b2aa1c4408d24"
+  },
+  "docs/ARCHITECTURE.md": {
+    "mtime": 1789156406.1436758,
+    "ast_hash": "c4abd30103d96aae67c5049c6e3e843a",
+    "semantic_hash": "c4abd30103d96aae67c5049c6e3e843a"
+  },
+  "docs/PHASES.md": {
+    "mtime": 1789154267.6630986,
+    "ast_hash": "e30fcb4d42d2a526eee4c81048c01b74",
+    "semantic_hash": "e30fcb4d42d2a526eee4c81048c01b74"
+  },
+  "docs/adr/0001-foundation-stack.md": {
+    "mtime": 1789207089.3867698,
+    "ast_hash": "cbd0cf0cc295eb66976855ef22794e45",
+    "semantic_hash": "cbd0cf0cc295eb66976855ef22794e45"
+  },
+  "docs/phase-reports/phase-1.md": {
+    "mtime": 1789042273.3228168,
+    "ast_hash": "48912c809d50d5195d7aaa025942e1fd",
+    "semantic_hash": "48912c809d50d5195d7aaa025942e1fd"
+  },
+  "frontend/index.html": {
+    "mtime": 1789207089.3871129,
+    "ast_hash": "9adf13528931d11eb8a571bbec66f995",
+    "semantic_hash": "9adf13528931d11eb8a571bbec66f995"
+  },
+  "backend/src/garage_lpr/api/routes/cameras.py": {
+    "mtime": 1789112017.7165737,
+    "ast_hash": "c448cd17a01c8e046017a4918f167b06",
+    "semantic_hash": "c448cd17a01c8e046017a4918f167b06"
+  },
+  "backend/src/garage_lpr/api/schemas/__init__.py": {
+    "mtime": 1789046903.8280191,
+    "ast_hash": "1e5c5df5e318e14948eb350a95753d4a",
+    "semantic_hash": "1e5c5df5e318e14948eb350a95753d4a"
+  },
+  "backend/src/garage_lpr/api/schemas/cameras.py": {
+    "mtime": 1789046903.870189,
+    "ast_hash": "79c1cd785559e0c167ad534b77ccb158",
+    "semantic_hash": "79c1cd785559e0c167ad534b77ccb158"
+  },
+  "backend/src/garage_lpr/camera/backoff.py": {
+    "mtime": 1789112017.7185698,
+    "ast_hash": "eab6c656b1c09acff2ab8853d006ea6f",
+    "semantic_hash": "eab6c656b1c09acff2ab8853d006ea6f"
+  },
+  "backend/src/garage_lpr/camera/buffer.py": {
+    "mtime": 1789050210.2757595,
+    "ast_hash": "7bff1540a2f20bdffb41a2de6e37b3fc",
+    "semantic_hash": "7bff1540a2f20bdffb41a2de6e37b3fc"
+  },
+  "backend/src/garage_lpr/camera/domain.py": {
+    "mtime": 1789047489.921463,
+    "ast_hash": "dc2405efef9002043c436ba6faf3d69f",
+    "semantic_hash": "dc2405efef9002043c436ba6faf3d69f"
+  },
+  "backend/src/garage_lpr/camera/manager.py": {
+    "mtime": 1789116748.7433372,
+    "ast_hash": "5b8170c8bba8959e89d7add60bc09383",
+    "semantic_hash": "5b8170c8bba8959e89d7add60bc09383"
+  },
+  "backend/src/garage_lpr/camera/preview.py": {
+    "mtime": 1789049861.752776,
+    "ast_hash": "9cb555ede93d41efa23883e0232243fa",
+    "semantic_hash": "9cb555ede93d41efa23883e0232243fa"
+  },
+  "backend/src/garage_lpr/camera/rtsp.py": {
+    "mtime": 1789047489.879841,
+    "ast_hash": "ad597a33a673c7f073bb4283ac0378af",
+    "semantic_hash": "ad597a33a673c7f073bb4283ac0378af"
+  },
+  "backend/src/garage_lpr/camera/secrets.py": {
+    "mtime": 1789046784.7403271,
+    "ast_hash": "7eeca020920b035c2629c321f3b4016b",
+    "semantic_hash": "7eeca020920b035c2629c321f3b4016b"
+  },
+  "backend/src/garage_lpr/camera/service.py": {
+    "mtime": 1789112017.717567,
+    "ast_hash": "853f53365c48086806d2f04f411a0f97",
+    "semantic_hash": "853f53365c48086806d2f04f411a0f97"
+  },
+  "backend/src/garage_lpr/camera/stream.py": {
+    "mtime": 1789112017.7166102,
+    "ast_hash": "22dbc6b3963c0dbcb2219ee32440dad5",
+    "semantic_hash": "22dbc6b3963c0dbcb2219ee32440dad5"
+  },
+  "backend/src/garage_lpr/camera/testing.py": {
+    "mtime": 1789112017.716901,
+    "ast_hash": "aa49374b51d6679b4c007495ca95ceec",
+    "semantic_hash": "aa49374b51d6679b4c007495ca95ceec"
+  },
+  "backend/src/garage_lpr/database/repositories/cameras.py": {
+    "mtime": 1789046784.614739,
+    "ast_hash": "b2c6eb4b7facde3e0d877003636767ca",
+    "semantic_hash": "b2c6eb4b7facde3e0d877003636767ca"
+  },
+  "backend/tests/test_camera_api.py": {
+    "mtime": 1789047150.9880106,
+    "ast_hash": "bd046ba3e8c8228a60b75b2e1075790f",
+    "semantic_hash": "bd046ba3e8c8228a60b75b2e1075790f"
+  },
+  "backend/tests/test_camera_primitives.py": {
+    "mtime": 1789047132.9853222,
+    "ast_hash": "d81b0cac92499cf41c7ec6d64267dee3",
+    "semantic_hash": "d81b0cac92499cf41c7ec6d64267dee3"
+  },
+  "backend/tests/test_camera_reconnect.py": {
+    "mtime": 1789112017.7185004,
+    "ast_hash": "6cb4fc589e0b847008785628fc5d0d18",
+    "semantic_hash": "6cb4fc589e0b847008785628fc5d0d18"
+  },
+  "backend/tests/test_camera_schemas.py": {
+    "mtime": 1789047133.1028357,
+    "ast_hash": "1fc1355bec247780905d30e393ddc623",
+    "semantic_hash": "1fc1355bec247780905d30e393ddc623"
+  },
+  "backend/tests/test_rtsp_provider.py": {
+    "mtime": 1789047524.3135347,
+    "ast_hash": "b33de667ffceb4585b47883e4bcc56fe",
+    "semantic_hash": "b33de667ffceb4585b47883e4bcc56fe"
+  },
+  "frontend/src/components/RoiEditor.tsx": {
+    "mtime": 1789049453.4536731,
+    "ast_hash": "0cfdae7c3bd2a4c14d80cbaf375f8e2b",
+    "semantic_hash": "0cfdae7c3bd2a4c14d80cbaf375f8e2b"
+  },
+  "frontend/src/pages/Cameras.tsx": {
+    "mtime": 1789049453.5000536,
+    "ast_hash": "8940b6951cdc68e2ae906a8abe6206ae",
+    "semantic_hash": "8940b6951cdc68e2ae906a8abe6206ae"
+  },
+  "docs/phase-reports/phase-2.md": {
+    "mtime": 1789049541.7495654,
+    "ast_hash": "48ec00f9396a3a24126b68db61e47758",
+    "semantic_hash": "48ec00f9396a3a24126b68db61e47758"
+  },
+  "graphify-out/memory/query_20260910_131753_phase_2_rtsp_camera_live_preview_reconnect_roi_imp.md": {
+    "mtime": 1789046273.6211712,
+    "ast_hash": "d861a2845d1e6cdac789355c8a877afe",
+    "semantic_hash": "d861a2845d1e6cdac789355c8a877afe"
+  },
+  "backend/src/garage_lpr/api/routes/metrics.py": {
+    "mtime": 1789116322.1621335,
+    "ast_hash": "5c1f26e6f3b324f82e5935bbec52e456",
+    "semantic_hash": "5c1f26e6f3b324f82e5935bbec52e456"
+  },
+  "backend/src/garage_lpr/api/schemas/metrics.py": {
+    "mtime": 1789116322.1196554,
+    "ast_hash": "fe223670b9e7a34ed85ebd5bea6d8386",
+    "semantic_hash": "fe223670b9e7a34ed85ebd5bea6d8386"
+  },
+  "backend/src/garage_lpr/detection/onnx_detector.py": {
+    "mtime": 1789112017.7182035,
+    "ast_hash": "faaab07e48f3998ade783773c44cb9ae",
+    "semantic_hash": "faaab07e48f3998ade783773c44cb9ae"
+  },
+  "backend/src/garage_lpr/detection/pipeline.py": {
+    "mtime": 1789058114.2254279,
+    "ast_hash": "ce5f917ca9acf7b74b24a0b60d38036f",
+    "semantic_hash": "ce5f917ca9acf7b74b24a0b60d38036f"
+  },
+  "backend/src/garage_lpr/detection/sampler.py": {
+    "mtime": 1789058114.1807704,
+    "ast_hash": "b18af41b7f3427acd7925ab244f937a2",
+    "semantic_hash": "b18af41b7f3427acd7925ab244f937a2"
+  },
+  "backend/src/garage_lpr/inference/__init__.py": {
+    "mtime": 1789057945.1906433,
+    "ast_hash": "1003a80c0ce60d5c0f2f7b931cfd9e5a",
+    "semantic_hash": "1003a80c0ce60d5c0f2f7b931cfd9e5a"
+  },
+  "backend/src/garage_lpr/inference/domain.py": {
+    "mtime": 1789111769.493011,
+    "ast_hash": "8c7f54fe13ad0162aa8cf3fda88a5916",
+    "semantic_hash": "8c7f54fe13ad0162aa8cf3fda88a5916"
+  },
+  "backend/src/garage_lpr/inference/factory.py": {
+    "mtime": 1789155904.0744026,
+    "ast_hash": "586b6a555705032eb64be0b424a4dba8",
+    "semantic_hash": "586b6a555705032eb64be0b424a4dba8"
+  },
+  "backend/src/garage_lpr/inference/manager.py": {
+    "mtime": 1789116748.825515,
+    "ast_hash": "bac282df0c01c9979621a56644279ea1",
+    "semantic_hash": "bac282df0c01c9979621a56644279ea1"
+  },
+  "backend/src/garage_lpr/inference/metrics.py": {
+    "mtime": 1789112017.7182088,
+    "ast_hash": "4a79c4ae9b571a4f2d37e1334e216ae5",
+    "semantic_hash": "4a79c4ae9b571a4f2d37e1334e216ae5"
+  },
+  "backend/src/garage_lpr/inference/runtime.py": {
+    "mtime": 1789059438.097576,
+    "ast_hash": "5134d1eef82c68f9f5857de85fc35e3a",
+    "semantic_hash": "5134d1eef82c68f9f5857de85fc35e3a"
+  },
+  "backend/src/garage_lpr/ocr/normalizer.py": {
+    "mtime": 1789057945.4031491,
+    "ast_hash": "a815cd21cb2c97104f5e1b1b0536ad16",
+    "semantic_hash": "a815cd21cb2c97104f5e1b1b0536ad16"
+  },
+  "backend/src/garage_lpr/ocr/onnx_ocr.py": {
+    "mtime": 1789058973.4608812,
+    "ast_hash": "5b5cdd55eec9c78b27f9b51c27aacee2",
+    "semantic_hash": "5b5cdd55eec9c78b27f9b51c27aacee2"
+  },
+  "backend/src/garage_lpr/offline_video.py": {
+    "mtime": 1789112017.718997,
+    "ast_hash": "1785db9a8251572a6c63457795b779ac",
+    "semantic_hash": "1785db9a8251572a6c63457795b779ac"
+  },
+  "backend/tests/test_detection_pipeline.py": {
+    "mtime": 1789058574.6920192,
+    "ast_hash": "dac30a70855b06ad999a015d64e51a04",
+    "semantic_hash": "dac30a70855b06ad999a015d64e51a04"
+  },
+  "backend/tests/test_frame_sampler.py": {
+    "mtime": 1789058574.5622897,
+    "ast_hash": "7033bd7946695114a278522b0cd3fac0",
+    "semantic_hash": "7033bd7946695114a278522b0cd3fac0"
+  },
+  "backend/tests/test_inference_api.py": {
+    "mtime": 1789058574.7321436,
+    "ast_hash": "9c63ca59555846bde7a6b1c154b498c3",
+    "semantic_hash": "9c63ca59555846bde7a6b1c154b498c3"
+  },
+  "backend/tests/test_inference_manager.py": {
+    "mtime": 1789058877.6243744,
+    "ast_hash": "e0720575d41b13a896617b8409fe0d7e",
+    "semantic_hash": "e0720575d41b13a896617b8409fe0d7e"
+  },
+  "backend/tests/test_inference_runtime.py": {
+    "mtime": 1789112017.7185113,
+    "ast_hash": "ff9a1151fbbed6cfaa644752b13c94cd",
+    "semantic_hash": "ff9a1151fbbed6cfaa644752b13c94cd"
+  },
+  "backend/tests/test_offline_video.py": {
+    "mtime": 1789058877.5817769,
+    "ast_hash": "3daec370c775b2dd4e01a52955d33df2",
+    "semantic_hash": "3daec370c775b2dd4e01a52955d33df2"
+  },
+  "backend/tests/test_onnx_detector.py": {
+    "mtime": 1789059412.4333954,
+    "ast_hash": "336e7bde39d5e9a59801af3a605656e0",
+    "semantic_hash": "336e7bde39d5e9a59801af3a605656e0"
+  },
+  "backend/tests/test_onnx_ocr.py": {
+    "mtime": 1789059412.514755,
+    "ast_hash": "c005f75013981955bee74cdbc0e4f7ca",
+    "semantic_hash": "c005f75013981955bee74cdbc0e4f7ca"
+  },
+  "backend/tests/test_plate_normalizer.py": {
+    "mtime": 1789058574.515675,
+    "ast_hash": "ba1fe89cb4e28c6d037069a17537317d",
+    "semantic_hash": "ba1fe89cb4e28c6d037069a17537317d"
+  },
+  "docs/phase-reports/phase-3.md": {
+    "mtime": 1789059302.6214676,
+    "ast_hash": "93f2a2dbbfb3db62e991305016a4b384",
+    "semantic_hash": "93f2a2dbbfb3db62e991305016a4b384"
+  },
+  "graphify-out/memory/query_20260910_162624_phase_3_e_ba\u015fla.md": {
+    "mtime": 1789057584.791124,
+    "ast_hash": "8f5cb716f0b792983882e01c5676826d",
+    "semantic_hash": "8f5cb716f0b792983882e01c5676826d"
+  },
+  "models/README.md": {
+    "mtime": 1789058877.5370898,
+    "ast_hash": "a6287aa2e7feab21fa4628bec2a4791d",
+    "semantic_hash": "a6287aa2e7feab21fa4628bec2a4791d"
+  },
+  "backend/src/garage_lpr/access/authorization.py": {
+    "mtime": 1789112017.7169423,
+    "ast_hash": "a551d62328363a2cdd0844d87f3264aa",
+    "semantic_hash": "a551d62328363a2cdd0844d87f3264aa"
+  },
+  "backend/src/garage_lpr/access/cooldown.py": {
+    "mtime": 1789112017.7172203,
+    "ast_hash": "b0224bcadddf15cfd33e4da31e063ce8",
+    "semantic_hash": "b0224bcadddf15cfd33e4da31e063ce8"
+  },
+  "backend/src/garage_lpr/access/vehicles.py": {
+    "mtime": 1789086623.7250328,
+    "ast_hash": "bc4e34161f4dfdc2056f532ee332f871",
+    "semantic_hash": "bc4e34161f4dfdc2056f532ee332f871"
+  },
+  "backend/src/garage_lpr/api/routes/vehicles.py": {
+    "mtime": 1789086738.1794348,
+    "ast_hash": "3beb852ad127a0a2f3b077cc54bff220",
+    "semantic_hash": "3beb852ad127a0a2f3b077cc54bff220"
+  },
+  "backend/src/garage_lpr/api/schemas/vehicles.py": {
+    "mtime": 1789086738.1358337,
+    "ast_hash": "274ba215ccdefa0bb86ff63f06cc31fe",
+    "semantic_hash": "274ba215ccdefa0bb86ff63f06cc31fe"
+  },
+  "backend/src/garage_lpr/database/repositories/vehicles.py": {
+    "mtime": 1789086623.6268523,
+    "ast_hash": "f29b95b80ce995a3f38be0bf5efba632",
+    "semantic_hash": "f29b95b80ce995a3f38be0bf5efba632"
+  },
+  "backend/src/garage_lpr/recognition/factory.py": {
+    "mtime": 1789087030.021007,
+    "ast_hash": "cf3d2a03c7ae7a5a2bff6edb602001ef",
+    "semantic_hash": "cf3d2a03c7ae7a5a2bff6edb602001ef"
+  },
+  "backend/src/garage_lpr/recognition/service.py": {
+    "mtime": 1789112017.716783,
+    "ast_hash": "ef85a70a2a7bfa462dd856c30d4a8f0b",
+    "semantic_hash": "ef85a70a2a7bfa462dd856c30d4a8f0b"
+  },
+  "backend/src/garage_lpr/recognition/temporal.py": {
+    "mtime": 1789112017.7170913,
+    "ast_hash": "f8266d6fb94efb92282409f8835dc6c8",
+    "semantic_hash": "f8266d6fb94efb92282409f8835dc6c8"
+  },
+  "backend/src/garage_lpr/recognition/tracker.py": {
+    "mtime": 1789112017.7175243,
+    "ast_hash": "88d06071580d190e9a3f4fbc630ac804",
+    "semantic_hash": "88d06071580d190e9a3f4fbc630ac804"
+  },
+  "backend/tests/test_authorization.py": {
+    "mtime": 1789112017.7182229,
+    "ast_hash": "c6d1d716d9058de31b3be8fd82db4643",
+    "semantic_hash": "c6d1d716d9058de31b3be8fd82db4643"
+  },
+  "backend/tests/test_cooldown.py": {
+    "mtime": 1789086797.1243927,
+    "ast_hash": "03ca73d1c9fa84a8be83ea57f04bdb4d",
+    "semantic_hash": "03ca73d1c9fa84a8be83ea57f04bdb4d"
+  },
+  "backend/tests/test_recognition_service.py": {
+    "mtime": 1789087030.0656152,
+    "ast_hash": "2de33a0bac4daf5049b98298a92de727",
+    "semantic_hash": "2de33a0bac4daf5049b98298a92de727"
+  },
+  "backend/tests/test_temporal_validation.py": {
+    "mtime": 1789086797.080144,
+    "ast_hash": "5b3664fd99cf3efc91347b9b02e49a2c",
+    "semantic_hash": "5b3664fd99cf3efc91347b9b02e49a2c"
+  },
+  "backend/tests/test_tracker.py": {
+    "mtime": 1789086797.033976,
+    "ast_hash": "281c86743fad76dd1d58e242a94fdf7b",
+    "semantic_hash": "281c86743fad76dd1d58e242a94fdf7b"
+  },
+  "backend/tests/test_vehicle_api.py": {
+    "mtime": 1789086797.2530203,
+    "ast_hash": "f477415cb607649861ccc8d8d66d11b1",
+    "semantic_hash": "f477415cb607649861ccc8d8d66d11b1"
+  },
+  "frontend/src/pages/Vehicles.tsx": {
+    "mtime": 1789086942.3358428,
+    "ast_hash": "ca5a7c266c9468c0d4a7b7ea16abe7b2",
+    "semantic_hash": "ca5a7c266c9468c0d4a7b7ea16abe7b2"
+  },
+  "docs/phase-reports/phase-4.md": {
+    "mtime": 1789087162.4702816,
+    "ast_hash": "c253efecde71803ffcb658123b08d4a5",
+    "semantic_hash": "c253efecde71803ffcb658123b08d4a5"
+  },
+  "graphify-out/memory/query_20260911_002710_phase_4_e_ge\u00e7.md": {
+    "mtime": 1789086430.237135,
+    "ast_hash": "eff3ab7687b6bf3a2d5ec9db90311fdf",
+    "semantic_hash": "eff3ab7687b6bf3a2d5ec9db90311fdf"
+  },
+  "backend/src/garage_lpr/access/rules.py": {
+    "mtime": 1789112057.8789968,
+    "ast_hash": "fff49db2cb2f8727b9ecdb1894efb63e",
+    "semantic_hash": "fff49db2cb2f8727b9ecdb1894efb63e"
+  },
+  "backend/src/garage_lpr/api/routes/access_rules.py": {
+    "mtime": 1789112182.8668618,
+    "ast_hash": "e82db6b762cf9855c07279cb125cfda7",
+    "semantic_hash": "e82db6b762cf9855c07279cb125cfda7"
+  },
+  "backend/src/garage_lpr/api/routes/gates.py": {
+    "mtime": 1789112017.7170355,
+    "ast_hash": "956fa97b76286890449eb861e2b19d41",
+    "semantic_hash": "956fa97b76286890449eb861e2b19d41"
+  },
+  "backend/src/garage_lpr/api/schemas/access_rules.py": {
+    "mtime": 1789112017.7178078,
+    "ast_hash": "25a282a2c8ce718832c7b484b6b5a7aa",
+    "semantic_hash": "25a282a2c8ce718832c7b484b6b5a7aa"
+  },
+  "backend/src/garage_lpr/api/schemas/gates.py": {
+    "mtime": 1789112017.7183404,
+    "ast_hash": "4918110ff1fc9937e628e1fcfbe01a53",
+    "semantic_hash": "4918110ff1fc9937e628e1fcfbe01a53"
+  },
+  "backend/src/garage_lpr/database/repositories/access_rules.py": {
+    "mtime": 1789112017.7164407,
+    "ast_hash": "c1b0de6476a6b87cad98eb5a5c4dd48e",
+    "semantic_hash": "c1b0de6476a6b87cad98eb5a5c4dd48e"
+  },
+  "backend/src/garage_lpr/database/repositories/gates.py": {
+    "mtime": 1789112017.7170775,
+    "ast_hash": "02d43dc0fd808d6ef421ab850a997343",
+    "semantic_hash": "02d43dc0fd808d6ef421ab850a997343"
+  },
+  "backend/src/garage_lpr/gate/domain.py": {
+    "mtime": 1789112017.7163506,
+    "ast_hash": "60d7d1484f146a5afb8af0a4bbb505e9",
+    "semantic_hash": "60d7d1484f146a5afb8af0a4bbb505e9"
+  },
+  "backend/src/garage_lpr/gate/factory.py": {
+    "mtime": 1789112215.8523571,
+    "ast_hash": "f53e27fb9413e78ea34f29ddc75eed25",
+    "semantic_hash": "f53e27fb9413e78ea34f29ddc75eed25"
+  },
+  "backend/src/garage_lpr/gate/manager.py": {
+    "mtime": 1789112764.1686041,
+    "ast_hash": "746d7b03f3551814f38b173092938c65",
+    "semantic_hash": "746d7b03f3551814f38b173092938c65"
+  },
+  "backend/src/garage_lpr/gate/mock.py": {
+    "mtime": 1789112017.7163415,
+    "ast_hash": "8336fe31c268f270b688560b9c359eab",
+    "semantic_hash": "8336fe31c268f270b688560b9c359eab"
+  },
+  "backend/src/garage_lpr/gate/orchestration.py": {
+    "mtime": 1789112494.949709,
+    "ast_hash": "c9d9c1bbb3955a4f46ea4a28a2ad9386",
+    "semantic_hash": "c9d9c1bbb3955a4f46ea4a28a2ad9386"
+  },
+  "backend/src/garage_lpr/gate/orchestration_factory.py": {
+    "mtime": 1789112017.7171552,
+    "ast_hash": "9d485b86f003597259ab06c93677cabd",
+    "semantic_hash": "9d485b86f003597259ab06c93677cabd"
+  },
+  "backend/src/garage_lpr/gate/service.py": {
+    "mtime": 1789112017.717381,
+    "ast_hash": "a4dd68e5e0cc93d2fe31b7954e9e74b7",
+    "semantic_hash": "a4dd68e5e0cc93d2fe31b7954e9e74b7"
+  },
+  "backend/tests/test_gate_access_api.py": {
+    "mtime": 1789112287.8730843,
+    "ast_hash": "9a3a61664b4c40a38317f80457dd129b",
+    "semantic_hash": "9a3a61664b4c40a38317f80457dd129b"
+  },
+  "backend/tests/test_gate_orchestration.py": {
+    "mtime": 1789112163.5303907,
+    "ast_hash": "6105ec2ec0baa8bfc41f2f8f7309f8c3",
+    "semantic_hash": "6105ec2ec0baa8bfc41f2f8f7309f8c3"
+  },
+  "backend/tests/test_mock_gate.py": {
+    "mtime": 1789112756.2864532,
+    "ast_hash": "c3737bcce951f250bbd86b569d368391",
+    "semantic_hash": "c3737bcce951f250bbd86b569d368391"
+  },
+  "frontend/src/pages/AccessRules.tsx": {
+    "mtime": 1789207089.3878028,
+    "ast_hash": "fa84bc9b44797751f96b25dcf7fe7837",
+    "semantic_hash": "fa84bc9b44797751f96b25dcf7fe7837"
+  },
+  "frontend/src/pages/GateControllers.tsx": {
+    "mtime": 1789112460.685194,
+    "ast_hash": "d49394e54a3f0bc65079904a210dbd50",
+    "semantic_hash": "d49394e54a3f0bc65079904a210dbd50"
+  },
+  "docs/phase-reports/phase-5.md": {
+    "mtime": 1789112782.6543472,
+    "ast_hash": "ee6d1114b8af93592ff49b467861132f",
+    "semantic_hash": "ee6d1114b8af93592ff49b467861132f"
+  },
+  "graphify-out/memory/query_20260911_072255_devam.md": {
+    "mtime": 1789111375.5724955,
+    "ast_hash": "1ff318502fddd481c3faa948cb87494d",
+    "semantic_hash": "1ff318502fddd481c3faa948cb87494d"
+  },
+  "backend/src/garage_lpr/api/routes/events.py": {
+    "mtime": 1789138577.9624527,
+    "ast_hash": "a1b4f65c48bdbc356ce521e3e5053584",
+    "semantic_hash": "a1b4f65c48bdbc356ce521e3e5053584"
+  },
+  "backend/src/garage_lpr/api/schemas/events.py": {
+    "mtime": 1789130449.0846608,
+    "ast_hash": "25ed5afa9ca0ee08e36b01b11fa8fede",
+    "semantic_hash": "25ed5afa9ca0ee08e36b01b11fa8fede"
+  },
+  "backend/src/garage_lpr/database/repositories/events.py": {
+    "mtime": 1789130495.6877303,
+    "ast_hash": "a22611c8f9c887dfceb92e7cf2fa25b9",
+    "semantic_hash": "a22611c8f9c887dfceb92e7cf2fa25b9"
+  },
+  "backend/src/garage_lpr/events/broker.py": {
+    "mtime": 1789130175.0521972,
+    "ast_hash": "18cbd3b629552b5e67ec6142e32d117e",
+    "semantic_hash": "18cbd3b629552b5e67ec6142e32d117e"
+  },
+  "backend/src/garage_lpr/events/domain.py": {
+    "mtime": 1789130448.5075824,
+    "ast_hash": "1113a4e0ef885dd24e1f642bc4155c01",
+    "semantic_hash": "1113a4e0ef885dd24e1f642bc4155c01"
+  },
+  "backend/src/garage_lpr/events/recorder.py": {
+    "mtime": 1789130197.2427068,
+    "ast_hash": "839569349b8f30348a57a254c4955e81",
+    "semantic_hash": "839569349b8f30348a57a254c4955e81"
+  },
+  "backend/src/garage_lpr/events/service.py": {
+    "mtime": 1789130448.7013474,
+    "ast_hash": "e1e6a458fd87a4c8923a2417e49c6605",
+    "semantic_hash": "e1e6a458fd87a4c8923a2417e49c6605"
+  },
+  "backend/src/garage_lpr/health/resources.py": {
+    "mtime": 1789116791.17896,
+    "ast_hash": "aa2920090997c9c728c0b4c04ee89ab7",
+    "semantic_hash": "aa2920090997c9c728c0b4c04ee89ab7"
+  },
+  "backend/src/garage_lpr/storage/local.py": {
+    "mtime": 1789116265.6582994,
+    "ast_hash": "ec117885a6e4ef2bc212c55baa739a99",
+    "semantic_hash": "ec117885a6e4ef2bc212c55baa739a99"
+  },
+  "backend/src/garage_lpr/storage/service.py": {
+    "mtime": 1789116474.54122,
+    "ast_hash": "d6b489af3939ff5d5742fa2eb6d2f4be",
+    "semantic_hash": "d6b489af3939ff5d5742fa2eb6d2f4be"
+  },
+  "backend/tests/test_event_recorder.py": {
+    "mtime": 1789116894.0534465,
+    "ast_hash": "af4fc6ce775f3111a2fd2671e3e4d024",
+    "semantic_hash": "af4fc6ce775f3111a2fd2671e3e4d024"
+  },
+  "backend/tests/test_events.py": {
+    "mtime": 1789130618.6522942,
+    "ast_hash": "f3cc1475bddd5e2251ac4286868195fa",
+    "semantic_hash": "f3cc1475bddd5e2251ac4286868195fa"
+  },
+  "backend/tests/test_snapshot_storage.py": {
+    "mtime": 1789116894.0971518,
+    "ast_hash": "c88086d3f00859115a920cf0f9b415ae",
+    "semantic_hash": "c88086d3f00859115a920cf0f9b415ae"
+  },
+  "frontend/src/pages/Events.tsx": {
+    "mtime": 1789130151.8867505,
+    "ast_hash": "6e52d25efd9686627dbee5503605da54",
+    "semantic_hash": "6e52d25efd9686627dbee5503605da54"
+  },
+  "frontend/src/pages/SystemHealth.tsx": {
+    "mtime": 1789116626.3843367,
+    "ast_hash": "39426f7b0e11d56b158c72faf1cb6c06",
+    "semantic_hash": "39426f7b0e11d56b158c72faf1cb6c06"
+  },
+  "docs/phase-reports/phase-6.md": {
+    "mtime": 1789130695.172009,
+    "ast_hash": "9e442e2d587f65b4a2eb038e2fc2a572",
+    "semantic_hash": "9e442e2d587f65b4a2eb038e2fc2a572"
+  },
+  "graphify-out/memory/query_20260911_083102_phase_6_ya_devam_et.md": {
+    "mtime": 1789115462.9829144,
+    "ast_hash": "829a70ac4adb12a7b7173bdb876edca6",
+    "semantic_hash": "829a70ac4adb12a7b7173bdb876edca6"
+  },
+  "backend/src/garage_lpr/api/routes/auth.py": {
+    "mtime": 1789138201.998964,
+    "ast_hash": "39409707e458e703885ff98945ffdf2f",
+    "semantic_hash": "39409707e458e703885ff98945ffdf2f"
+  },
+  "backend/src/garage_lpr/api/schemas/auth.py": {
+    "mtime": 1789138201.957113,
+    "ast_hash": "c88760cd1cfdd5d5d243359dfb9a2228",
+    "semantic_hash": "c88760cd1cfdd5d5d243359dfb9a2228"
+  },
+  "backend/src/garage_lpr/auth/__init__.py": {
+    "mtime": 1789135489.3754756,
+    "ast_hash": "853d4bfaa12c4c188f5cac3c1bed2c26",
+    "semantic_hash": "853d4bfaa12c4c188f5cac3c1bed2c26"
+  },
+  "backend/src/garage_lpr/auth/domain.py": {
+    "mtime": 1789135489.4654255,
+    "ast_hash": "6203df023801bd18469ccff92600f644",
+    "semantic_hash": "6203df023801bd18469ccff92600f644"
+  },
+  "backend/src/garage_lpr/auth/limiter.py": {
+    "mtime": 1789135489.657381,
+    "ast_hash": "0d224aec23a4ed2000a4c29bd5f84750",
+    "semantic_hash": "0d224aec23a4ed2000a4c29bd5f84750"
+  },
+  "backend/src/garage_lpr/auth/passwords.py": {
+    "mtime": 1789137996.8925865,
+    "ast_hash": "dc36570d98a9c9c71847bd56ced7ceb3",
+    "semantic_hash": "dc36570d98a9c9c71847bd56ced7ceb3"
+  },
+  "backend/src/garage_lpr/auth/service.py": {
+    "mtime": 1789138350.7284381,
+    "ast_hash": "e0d9b666ae32bf02af3f50dd00b0b9b2",
+    "semantic_hash": "e0d9b666ae32bf02af3f50dd00b0b9b2"
+  },
+  "backend/src/garage_lpr/database/migrations/versions/91c4b8e2f5a7_add_auth_sessions.py": {
+    "mtime": 1789137924.80996,
+    "ast_hash": "6bcc94a1330f458b01fe960234e68c85",
+    "semantic_hash": "6bcc94a1330f458b01fe960234e68c85"
+  },
+  "backend/src/garage_lpr/database/repositories/auth.py": {
+    "mtime": 1789135489.7519057,
+    "ast_hash": "a9a6c3479039aaff0c882bfa13b3e4b5",
+    "semantic_hash": "a9a6c3479039aaff0c882bfa13b3e4b5"
+  },
+  "backend/src/garage_lpr/security/__init__.py": {
+    "mtime": 1789138577.8306634,
+    "ast_hash": "6e7d50cb959d464090add04ba86cf017",
+    "semantic_hash": "6e7d50cb959d464090add04ba86cf017"
+  },
+  "backend/src/garage_lpr/security/headers.py": {
+    "mtime": 1789138577.874354,
+    "ast_hash": "1ccb09e851b5a2ce88980c0b0a710288",
+    "semantic_hash": "1ccb09e851b5a2ce88980c0b0a710288"
+  },
+  "backend/src/garage_lpr/service/__init__.py": {
+    "mtime": 1789138350.8452106,
+    "ast_hash": "4d323fc4666741ecc4b82d87f1d5821b",
+    "semantic_hash": "4d323fc4666741ecc4b82d87f1d5821b"
+  },
+  "backend/src/garage_lpr/service/windows.py": {
+    "mtime": 1789138350.8874264,
+    "ast_hash": "70c63e65f4868e81fadcb6530a28940c",
+    "semantic_hash": "70c63e65f4868e81fadcb6530a28940c"
+  },
+  "backend/tests/test_auth.py": {
+    "mtime": 1789138202.1677961,
+    "ast_hash": "986de0cc8072f5821d2366c886b5daec",
+    "semantic_hash": "986de0cc8072f5821d2366c886b5daec"
+  },
+  "backend/tests/test_deployment.py": {
+    "mtime": 1789156389.1923063,
+    "ast_hash": "38780949c53a95f5749a8c000cb4e19f",
+    "semantic_hash": "38780949c53a95f5749a8c000cb4e19f"
+  },
+  "frontend/src/pages/Authentication.tsx": {
+    "mtime": 1789138175.4383836,
+    "ast_hash": "dacb4b8ed60fc0179e43f3547d11bbb4",
+    "semantic_hash": "dacb4b8ed60fc0179e43f3547d11bbb4"
+  },
+  "scripts/windows-service.ps1": {
+    "mtime": 1789138578.0089176,
+    "ast_hash": "ace75259e310e529d81fa4873f03297b",
+    "semantic_hash": "ace75259e310e529d81fa4873f03297b"
+  },
+  "docs/DEPLOYMENT.md": {
+    "mtime": 1789156263.6585143,
+    "ast_hash": "ae71d6c94b46f589c91787b8c2e55c6f",
+    "semantic_hash": "ae71d6c94b46f589c91787b8c2e55c6f"
+  },
+  "docs/phase-reports/phase-7.md": {
+    "mtime": 1789138979.5039806,
+    "ast_hash": "77b856beab1fb20eaa155065e76afa54",
+    "semantic_hash": "77b856beab1fb20eaa155065e76afa54"
+  },
+  "graphify-out/memory/query_20260911_140056_devam.md": {
+    "mtime": 1789135256.242802,
+    "ast_hash": "4abf6e42f00c148e4a527d23b7af9bf8",
+    "semantic_hash": "4abf6e42f00c148e4a527d23b7af9bf8"
+  },
+  "backend/src/garage_lpr/resilience/__init__.py": {
+    "mtime": 1789153862.328434,
+    "ast_hash": "1648d17e04eac9f95f34a021bdc86848",
+    "semantic_hash": "1648d17e04eac9f95f34a021bdc86848"
+  },
+  "backend/src/garage_lpr/resilience/domain.py": {
+    "mtime": 1789154211.1202722,
+    "ast_hash": "c224ae2b887f2f34d76be499b6deefae",
+    "semantic_hash": "c224ae2b887f2f34d76be499b6deefae"
+  },
+  "backend/src/garage_lpr/resilience/monitor.py": {
+    "mtime": 1789154105.8671134,
+    "ast_hash": "92317ac2005eb33f20fcf583d0e7879a",
+    "semantic_hash": "92317ac2005eb33f20fcf583d0e7879a"
+  },
+  "backend/src/garage_lpr/resilience/reporting.py": {
+    "mtime": 1789153862.4560494,
+    "ast_hash": "ca21e14f5b3f54cd7f06172b5e3199a7",
+    "semantic_hash": "ca21e14f5b3f54cd7f06172b5e3199a7"
+  },
+  "backend/src/garage_lpr/resilience/soak.py": {
+    "mtime": 1789156323.3599913,
+    "ast_hash": "0d72e13aa8ed07ebddc1099ddfd613de",
+    "semantic_hash": "0d72e13aa8ed07ebddc1099ddfd613de"
+  },
+  "backend/tests/test_phase8_resilience.py": {
+    "mtime": 1789154181.965345,
+    "ast_hash": "0df7a09fc6ea65080821b4ab58427863",
+    "semantic_hash": "0df7a09fc6ea65080821b4ab58427863"
+  },
+  "scripts/soak-test.ps1": {
+    "mtime": 1789153941.5590801,
+    "ast_hash": "68b22fb75a5dc7c0819b7b99104cac3c",
+    "semantic_hash": "68b22fb75a5dc7c0819b7b99104cac3c"
+  },
+  "scripts/soak-test.sh": {
+    "mtime": 1789153941.6040564,
+    "ast_hash": "b4553a1330961c7c2b24a39e1a15cfa4",
+    "semantic_hash": "b4553a1330961c7c2b24a39e1a15cfa4"
+  },
+  "docs/STABILITY_TEST.md": {
+    "mtime": 1789154267.7906814,
+    "ast_hash": "c9c3ec7204d51a80bab88017948805bc",
+    "semantic_hash": "c9c3ec7204d51a80bab88017948805bc"
+  },
+  "docs/phase-reports/phase-8.md": {
+    "mtime": 1789154267.8330925,
+    "ast_hash": "f5bb5e8fa0d6d3c95782e845904d5b02",
+    "semantic_hash": "f5bb5e8fa0d6d3c95782e845904d5b02"
+  },
+  "graphify-out/memory/query_20260911_190927_devam.md": {
+    "mtime": 1789153767.427222,
+    "ast_hash": "db98e933518d6a2e249e766c43529850",
+    "semantic_hash": "db98e933518d6a2e249e766c43529850"
+  },
+  "installer/build-installer.ps1": {
+    "mtime": 1789156301.0272825,
+    "ast_hash": "74eeb6d9bd3c257cecb081c9a1e7acdd",
+    "semantic_hash": "74eeb6d9bd3c257cecb081c9a1e7acdd"
+  },
+  "installer/entrypoints/service.py": {
+    "mtime": 1789207089.3892365,
+    "ast_hash": "1d6a0d998f7385fc2fbd4e1021f86f7c",
+    "semantic_hash": "1d6a0d998f7385fc2fbd4e1021f86f7c"
+  },
+  "installer/entrypoints/soak.py": {
+    "mtime": 1789207089.3893893,
+    "ast_hash": "c2def77b3cc4e810a923e7cc396e8375",
+    "semantic_hash": "c2def77b3cc4e810a923e7cc396e8375"
+  },
+  "installer/health-check.ps1": {
+    "mtime": 1789207089.3897583,
+    "ast_hash": "0b6ce6a2b164b24ad980f4b643062d75",
+    "semantic_hash": "0b6ce6a2b164b24ad980f4b643062d75"
+  },
+  "installer/soak-test.ps1": {
+    "mtime": 1789207089.3900938,
+    "ast_hash": "98b590c3501f9520960c1a59d4a044bb",
+    "semantic_hash": "98b590c3501f9520960c1a59d4a044bb"
+  },
+  "installer/tests/test_installer_contract.py": {
+    "mtime": 1789156263.5661576,
+    "ast_hash": "c1103c06511beb2ebbde1718d660a949",
+    "semantic_hash": "c1103c06511beb2ebbde1718d660a949"
+  },
+  "installer/IMPLEMENTATION_REPORT.md": {
+    "mtime": 1789207089.3887963,
+    "ast_hash": "23a882a3ff7ed039bd80ef3cffc9a32f",
+    "semantic_hash": "23a882a3ff7ed039bd80ef3cffc9a32f"
+  },
+  "installer/README.md": {
+    "mtime": 1789205400.3984716,
+    "ast_hash": "fab341f1987782ed57f8329da014fb69",
+    "semantic_hash": "fab341f1987782ed57f8329da014fb69"
+  },
+  "installer/ci/windows-installer.yml": {
+    "mtime": 1789207089.3889647,
+    "ast_hash": "2ef54540eaa7b4c4d8a8a28612567690",
+    "semantic_hash": "2ef54540eaa7b4c4d8a8a28612567690"
+  },
+  "installer/requirements-build.txt": {
+    "mtime": 1789207089.389898,
+    "ast_hash": "fa2cb202ebbd595d517db2d110303cbf",
+    "semantic_hash": "fa2cb202ebbd595d517db2d110303cbf"
+  },
+  ".github/workflows/windows-installer.yml": {
+    "mtime": 1789207089.386206,
+    "ast_hash": "2ef54540eaa7b4c4d8a8a28612567690",
+    "semantic_hash": "2ef54540eaa7b4c4d8a8a28612567690"
+  }
+}
